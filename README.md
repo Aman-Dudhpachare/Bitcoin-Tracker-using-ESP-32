@@ -1,8 +1,8 @@
-# Bitcoin-Tracker-using-ESP-32
+# Bitcoin_Tracker_Using_ESP-32
 A physical Bitcoin Ticker. For use with Arduino ESP32 board and I2C OLED display.
 
 
-# Bitcoin Ticker
+# Bitcoin Tracker
 ***FIT ONLY FOR PERSONAL USE***
 
 If you would like to utilize it commercially, please get in contact with me. I'm open to reaching a consensus. 
